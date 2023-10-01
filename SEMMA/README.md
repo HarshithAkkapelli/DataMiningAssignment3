@@ -26,7 +26,7 @@ SEMMA (Sample, Explore, Modify, Model, and Assess) is a systematic approach to b
 | **Dataset**   | [View Dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)     |
 | **Colab Notebook**   | [View on Colab](https://colab.research.google.com/drive/1bz8-aLRRiSSCfCwRHImQvnQwqxfHM7za?usp=sharing)     |
 | **Medium Article**   | [Read on Medium](https://medium.com/@harshith.akkapelli/semma-based-machine-learning-approach-for-edibility-classification-of-mushrooms-d8697f9aeff6) |
-| **Research Paper**   | [View Paper](https://colab.research.google.com/drive/1hEIuvYVse7tLtzMzVIkbgkgJhfz1WBPf?usp=sharing)      |
+| **Research Paper**   | [View Paper](https://github.com/HarshithAkkapelli/DataMiningAssignment3/blob/main/SEMMA/paper.pdf)      |
 
 ---
 
