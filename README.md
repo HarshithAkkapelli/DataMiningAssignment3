@@ -2,7 +2,7 @@
 
 ---
 
-## 🌟 Published Papers 
+## 🌟 Published Papers Screenshot Proof
 
 ![Paper Visualization](papers.png)
 
