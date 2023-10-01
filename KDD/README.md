@@ -1,4 +1,4 @@
-# 🍄 SEMMA-based Analysis
+# 📈 KDD Analysis
 
 ### Author: Harshith Akkapelli
 
@@ -13,8 +13,8 @@
 ---
 
 <a name="introduction"></a>
-## 📖 Introduction
-SEMMA (Sample, Explore, Modify, Model, and Assess) is a systematic approach to building machine learning models. In this project, the SEMMA methodology is employed to classify mushrooms based on their edibility. Traverse through the findings to better understand the crucial factors determining whether a mushroom is edible or poisonous.
+## 📘 Introduction
+The KDD (Knowledge Discovery in Databases) process is pivotal for extracting meaningful insights from large volumes of data. In this project, we have harnessed the power of KDD to unravel user sentiments and patterns present in mobile app reviews. Navigate through to understand the nuances of user feedback and the prevalent trends in the mobile app industry.
 
 ---
 
@@ -25,9 +25,22 @@ SEMMA (Sample, Explore, Modify, Model, and Assess) is a systematic approach to b
 |------------------|-----------------------------------------------------------------------------------------------------------|
 | **Dataset**   | [View Dataset](https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews)     |
 | **Colab Notebook**   | [View on Colab](https://colab.research.google.com/drive/1J1ojvDIbMuttfd7KMN3YqBTeOEGgFe4f?usp=sharing)     |
-| **Medium Article**   | [Read on Medium](https://medium.com/@harshith.akkapelli/semma-based-machine-learning-approach-for-edibility-classification-of-mushrooms-d8697f9aeff6) |
-| **Research Paper**   | [View Paper](https://github.com/HarshithAkkapelli/DataMiningAssignment3/blob/main/KDD/paper.pdf)      |
+| **Medium Article**   | [Read on Medium](https://medium.com/@harshith.akkapelli/unveiling-user-sentiments-and-patterns-in-mobile-app-reviews-a-kdd-driven-analysis-of-the-threads-1bf81088e764) |
+| **Research Paper**   | [View Paper](https://colab.research.google.com/drive/1hEIuvYVse7tLtzMzVIkbgkgJhfz1WBPf?usp=sharing)      |
 
 ---
 
+<a name="visualizations"></a>
+## 📊 Visualizations
+Embed or link to any visualizations, charts, or diagrams here to enrich the understanding of your analysis.
+
+---
+
+<a name="acknowledgements"></a>
+## 🙏 Acknowledgements
+Gratitude to collaborators, contributors, and everyone who played a part in bringing this project to fruition.
+
+---
+
+🔗 Connect with Harshith Akkapelli on [LinkedIn](#YourLinkedInLink) | [Twitter](#YourTwitterLink)
 
