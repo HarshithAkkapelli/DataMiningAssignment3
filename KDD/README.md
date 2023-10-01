@@ -30,17 +30,4 @@ The KDD (Knowledge Discovery in Databases) process is pivotal for extracting mea
 
 ---
 
-<a name="visualizations"></a>
-## 📊 Visualizations
-Embed or link to any visualizations, charts, or diagrams here to enrich the understanding of your analysis.
-
----
-
-<a name="acknowledgements"></a>
-## 🙏 Acknowledgements
-Gratitude to collaborators, contributors, and everyone who played a part in bringing this project to fruition.
-
----
-
-🔗 Connect with Harshith Akkapelli on [LinkedIn](#YourLinkedInLink) | [Twitter](#YourTwitterLink)
 
