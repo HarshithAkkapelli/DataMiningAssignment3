@@ -4,7 +4,7 @@
 
 ## 🌟 Published Papers 
 
-![Paper Visualization](https://github.com/HarshithAkkapelli/DataMiningAssignment3/tree/main/papers.png)
+![Paper Visualization](papers.png)
 
 ---
 
