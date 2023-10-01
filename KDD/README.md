@@ -26,7 +26,7 @@ The KDD (Knowledge Discovery in Databases) process is pivotal for extracting mea
 | **Dataset**   | [View Dataset](https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews)     |
 | **Colab Notebook**   | [View on Colab](https://colab.research.google.com/drive/1J1ojvDIbMuttfd7KMN3YqBTeOEGgFe4f?usp=sharing)     |
 | **Medium Article**   | [Read on Medium](https://medium.com/@harshith.akkapelli/unveiling-user-sentiments-and-patterns-in-mobile-app-reviews-a-kdd-driven-analysis-of-the-threads-1bf81088e764) |
-| **Research Paper**   | [View Paper](https://colab.research.google.com/drive/1hEIuvYVse7tLtzMzVIkbgkgJhfz1WBPf?usp=sharing)      |
+| **Research Paper**   | [View Paper](https://github.com/HarshithAkkapelli/DataMiningAssignment3/blob/main/KDD/paper.pdf)      |
 
 ---
 
